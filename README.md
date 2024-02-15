@@ -77,9 +77,10 @@
 ---
 
 ## *Support my Work*
-[![Paypal Badge](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)]([Your PayPal URL])
-[![Cash App Badge](https://img.shields.io/badge/CashApp-01D21C?style=for-the-badge&logo=cashapp&logoColor=white)]([Your CashApp URL])
- [![Buy Me A Coffee Badge](https://img.shields.io/badge/BuyMeACoffee-FFDD00?style=for-the-badge)]([Your Buy Me A Coffee URL])
+[![Paypal Badge](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/AThach822
+)
+[![Cash App Badge](https://img.shields.io/badge/CashApp-01D21C?style=for-the-badge&logo=cashapp&logoColor=white)](https://cash.app/$Vexacon121)
+ [![Buy Me A Coffee Badge](https://img.shields.io/badge/BuyMeACoffee-FFDD00?style=for-the-badge)](https://www.buymeacoffee.com/lexiecon121)
 
 <details>
 
@@ -89,9 +90,9 @@
 
 | Currency          | Wallet Address                                                                                               |
 |-------------------|--------------------------------------------------------------------------------------------------------------|
-| [Currency #1]     | [Wallet Address #1]                                                                                          |
-| [Currency #2]     | [Wallet Address #2]                                                                                          |
-| [Currency #3]     | [Wallet Address #3]                                                                                          |
-| ...               | ...                                                                                                          |
+| Bitcoin   | 3Pgqkda3w8ZTzBGT5DeLDiWdkgNTNjNxvo                                                                                          |
+| Ethereum     | 0x31Dcb542BA6dDf0b16EcB36B5Aedf14d5CEcB897                                                                                         |
+| Tether     | 0x96AfE6640a310265D3177eFC3bfEAa0dC6F4e31E                                                                                         |
+
 
 </details>
