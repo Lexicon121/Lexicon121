@@ -14,7 +14,7 @@
 
 [Description of your role/expertise and what you do in this area]
 
-- [Project or Achievement #1](Project URL)
+- 🛰 [Strix Interceptor](https://github.com/Lexicon121/Strix-Interceptor): A defensive interceptor drone for tactical RF operations
 - [Project or Achievement #2](Project URL)
 
 </details>
