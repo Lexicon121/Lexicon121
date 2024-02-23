@@ -1,6 +1,6 @@
-<img src="[https://media.licdn.com/dms/image/D4E03AQF0Sbqt9-g8Mw/profile-displayphoto-shrink_800_800/0/1691792438270?e=2147483647&v=beta&t=i5fF_WxlUpWn3UmXFZQ-W0XJGSmWsBWmS_3sfIwHDUQ]" width="600">
+<img src="[https://media.licdn.com/dms/image/D4E03AQF0Sbqt9-g8Mw/profile-displayphoto-shrink_800_800/0/1691792438270?e=1714003200&v=beta&t=akh1pb5EOdpbBd2p_CWRn7VfiYu2W8kwBEjT56y8uPA]" width="600">
 
-[Your Short Bio]
+🌟 Hi there! I'm Lexie Thach 🚀. Over the last 10 years, I've been on a thrilling adventure through the worlds of cyber, tech, and development. From being an IT analyst 🖥️ to diving into purple teaming 🟣 and tackling a bunch of cool odd jobs in between, it's been quite the journey. I've shared my stories and discoveries at local meet-ups 📢 and even the grand stage of DEFCON 🛡️! My heart beats for autonomous systems like drones 🚁, robotics 🤖, ICS/SCADA systems 🏭, and lately, I've been getting cozy with AI and ML 🧠. Oh, and I've recently fallen for the stars 🌌 - satellite and orbital technology and securities are my new crushes 💫. Can't wait to see where this cosmic curiosity takes me next! 🌈
 
  [![Website Badge](https://img.shields.io/badge/Website-3776AB?style=for-the-badge)](https://lexicon121.github.io/LexieThachSite/)
  [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lunatech88/?img_index=1)
@@ -12,67 +12,46 @@
   
 <summary><b><u>Cybersecurity Engineer</u></b></summary>
 
-[Description of your role/expertise and what you do in this area]
+I'm a weeb cyber engineer 🌸🛡️,I keyboard-smash for a living🐱‍💻🎀🌐 with sparkles of code 
 
-- 🛰 [Strix Interceptor](https://github.com/Lexicon121/Strix-Interceptor): A defensive interceptor drone for tactical RF operations
-- [Project or Achievement #2](Project URL)
-
-</details>
-
-<details>
- 
-<summary><b><u>[Drone Systems Developer]</u></b></summary>
-
-[Description of your role/expertise and what you do in this area]
-
-- [Project or Achievement #1](Project URL)
-- [Project or Achievement #2](Project URL)
+- 🛰 [IAC-2023-80363](https://dl.iafastro.directory/event/IAC-2023/paper/80363/): Publication on developing an AI-enabled cybersecurity model to protect satellites from threats
+- [Tengu Marauder](https://github.com/Lexicon121/Tengu-Marauder) A mini wardriving drone using Blynk IoT and an ESP32 Marauder attached to a Flipper Zero
 
 </details>
 
 <details>
  
-<summary><b><u>[Robotics Practicioner]</u></b></summary>
+<summary><b><u>Drone Systems Developer</u></b></summary>
 
-[Description of your role/expertise and what you do in this area]
+I'm a sky-high dreamer 🚀✨, crafting drones 🛸 so that they can dance💃
 
-- [Project or Achievement #1](Project URL)
-- [Project or Achievement #2](Project URL)
+- 🛰 [Strix Interceptor (DEFCON31 Demo Labs)](https://github.com/Lexicon121/Strix-Interceptor): A defensive interceptor drone for tactical RF operations
+- [ICARUS Framework](https://github.com/Lexicon121/ICARUS-Framework): A theoretical security framework based on MITRE ATT&CK and SPARTA but for small Unmanned Aerial Systems
 
-</details>
-
-<details>
- 
-<summary><b><u>[Special Effects Enthusiast]</u></b></summary>
-
-[Description of your role/expertise and what you do in this area]
-
-- [Research Topic or Area]
-- [Publication or Content Creation Channel]
 
 </details>
 
 <details>
  
-<summary><b><u>[Additional Interest or Expertise]</u></b></summary>
+<summary><b><u>Robotics Practicioner</u></b></summary>
 
-[Description of your interest or expertise]
+I'm kinda like a dog whisperer but with robots 🤖💫, breathing life into metal companions 🛠️💖, crafting stories with gears and circuits, and dancing in a world where technology meets fairy dust 🌟🔩.
 
-- [Specific Interest or Project #1]
-- [Specific Interest or Project #2]
+- [Xonar Swarm System](https://github.com/Lexicon121/Xonar): A general swarm program designed for the Crazyflie 2.0 and ROS2 systems for environment traversal and navigation using the HTC Vive 1.0 lighthouse, Xbox 360 Kinect, and OpenCV
 
 </details>
 
 <details>
  
-<summary><b><u>Currently Learning</u></b></summary>
+ 
+<summary><b><u>Aerospace and Space Space</u></b></summary>
 
-[Description of what you're currently learning or exploring]
+Currently doing some projects and learning how LEO satellites work
 
-- [Topic or Area of Study #1]
-- [Topic or Area of Study #2]
+- Currently building a breach and attack simulation system for satellite VMs and applications
 
 </details>
+
 
 ---
 
