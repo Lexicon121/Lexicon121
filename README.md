@@ -2,7 +2,7 @@
 
 🌟 Hi there! I'm Lexie Thach 🚀. Over the last 10 years, I've explored cyber, tech, and development, from IT analyst roles 🖥️ to purple teaming 🟣 and beyond. I've shared my experiences at local meet-ups 📢 and on the grand stage of DEFCON 🛡️! My passions include autonomous systems like drones 🚁, robotics 🤖, ICS/SCADA systems 🏭, AI and ML 🧠, and recently, satellite and orbital technology 🌌.
 
- [![Website Badge](https://img.shields.io/badge/Website-3776AB?style=for-the-badge)](https://lexicon121.github.io/LexieThachSite/)
+ [![Website Badge](https://img.shields.io/badge/Website-3776AB?style=for-the-badge)](https://lexiethach.com/)
  [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lunatech88/?img_index=1)
  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lexie-alex-thach-297190120/)
  [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@alex.thach3)
