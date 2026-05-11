@@ -1,6 +1,6 @@
 <img src="[https://media.licdn.com/dms/image/D4E03AQF0Sbqt9-g8Mw/profile-displayphoto-shrink_800_800/0/1691792438270?e=1714003200&v=beta&t=akh1pb5EOdpbBd2p_CWRn7VfiYu2W8kwBEjT56y8uPA]" width="600">
 
-🌟 Hi there! I'm Lexie Thach 🚀. Over the last 10 years, I've explored cyber, tech, and development, from IT analyst roles 🖥️ to purple teaming 🟣 and beyond. I've shared my experiences at local meet-ups 📢 and on the grand stage of DEFCON 🛡️! My passions include autonomous systems like drones 🚁, robotics 🤖, ICS/SCADA systems 🏭, AI and ML 🧠, and recently, satellite and orbital technology 🌌.
+Hi there! I'm Lexie Thach. Over the last 10 years, I've explored cyber, tech, and development, from IT analyst roles to purple teaming and beyond. I've shared my experiences at local meet-ups and on the grand stage of DEFCON! My passions include autonomous systems like drones, robotics, ICS/SCADA systems, AI and ML, and recently, satellite and orbital technology.
 
  [![Website Badge](https://img.shields.io/badge/Website-3776AB?style=for-the-badge)](https://lexiethach.com/)
  [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lunatech88/?img_index=1)
@@ -12,7 +12,7 @@
   
 <summary><b><u>Cybersecurity Engineer</u></b></summary>
 
-I'm a weeb cyber engineer 🌸🛡️,I keyboard-smash for a living🐱‍💻🎀🌐 with sparkles of code 
+I'm a weeb cyber engineer ,I keyboard-smash for a living🐱‍💻  
 
 - 🛰 [IAC-2023-80363](https://dl.iafastro.directory/event/IAC-2023/paper/80363/): Publication on developing an AI-enabled cybersecurity model to protect satellites from threats
 - [Tengu Marauder](https://github.com/Lexicon121/Tengu-Marauder) A mini wardriving drone using Blynk IoT and an ESP32 Marauder attached to a Flipper Zero
@@ -23,7 +23,7 @@ I'm a weeb cyber engineer 🌸🛡️,I keyboard-smash for a living🐱‍💻�
  
 <summary><b><u>Drone Systems Developer</u></b></summary>
 
-I'm a sky-high dreamer 🚀✨, crafting drones 🛸 so that they can dance💃
+I'm a sky-high dreamer, crafting drones 🛸 so that they can dance💃
 
 - 🛰 [Strix Interceptor (DEFCON31 Demo Labs)](https://github.com/Lexicon121/Strix-Interceptor): A defensive interceptor drone for tactical RF operations
 - [ICARUS Framework](https://github.com/Lexicon121/ICARUS-Framework): A theoretical security framework based on MITRE ATT&CK and SPARTA but for small Unmanned Aerial Systems
