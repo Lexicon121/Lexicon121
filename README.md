@@ -1,6 +1,6 @@
 ## hey, i'm lexie 
 
-10 years in cyber. 8 years USAF plus 3-4 years private industry also cyber. Currently running a hackerspace in Philadelphia and building robots that break things in interesting ways.
+10+ years in cyber. Currently running a hackerspace called the Ex Machina Parlor in Philadelphia and building robots that break things in interesting ways.
 
 I lead **[Ex Machina Parlor (EMP)](https://exmachinaparlor.com/)** — a security research lab and hackerspace supporting DC215. We run workshops, a cyber range, and various projects that live somewhere between "cool research" and "why did we build this."
 
