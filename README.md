@@ -134,7 +134,7 @@ Running local inference because I like owning my data and my compute:
 </details>
 
 <details>
-<summary>🛰️ ICARUS Framework</summary>
+<summary> ICARUS Framework</summary>
 
 <br/>
 
