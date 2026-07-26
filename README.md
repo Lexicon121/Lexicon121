@@ -1,4 +1,4 @@
-## hey, i'm lexie 👾
+## hey, i'm lexie 
 
 10 years in cyber. 8 years USAF plus 3-4 years private industry also cyber. Currently running a hackerspace in Philadelphia and building robots that break things in interesting ways.
 
@@ -38,7 +38,7 @@ The evolution of the original Tengu Marauder. A multi-robot platform built for m
 - **Containerized stack** — Flask REST APIs, TUI over HTTP, Sliver C2 integration
 
 **Conference history:**
-- 🎖️ Black Hat USA 2026 — Arsenal — **Tengu Marauder Vanguard 2.0** *(accepted)*
+- Black Hat USA 2026 — Arsenal — **Tengu Marauder Vanguard 2.0** *(accepted)*
 - DEF CON 33 (2025) — Demo Labs — Tengu Marauder v2
 - Black Hat USA 2025 — Arsenal — Tengu Marauder Vanguard
 - DEF CON 32 (2024) — Demo Labs — Tengu Marauder
@@ -64,7 +64,7 @@ Used for EMP community workshops and ongoing security research.
 </details>
 
 <details>
-<summary><b>🛜 EMP Lab Infrastructure</b></summary>
+<summary><b> EMP Lab Infrastructure</b></summary>
 
 <br/>
 
@@ -78,7 +78,7 @@ Both connect over site-to-site WireGuard so the mobile lab extends the colo envi
 </details>
 
 <details>
-<summary><b>🧠 Self-hosted AI stack</b></summary>
+<summary><b> Self-hosted AI stack</b></summary>
 
 <br/>
 
@@ -104,7 +104,7 @@ Running local inference because I like owning my data and my compute:
 </details>
 
 <details>
-<summary>🛸 Tengu Marauder — DEF CON 32 (2024) Demo Labs</summary>
+<summary> Tengu Marauder — DEF CON 32 (2024) Demo Labs</summary>
 
 <br/>
 
@@ -115,7 +115,7 @@ Running local inference because I like owning my data and my compute:
 </details>
 
 <details>
-<summary>📡 Tengu Marauder Vanguard — Black Hat USA 2025 Arsenal</summary>
+<summary> Tengu Marauder Vanguard — Black Hat USA 2025 Arsenal</summary>
 
 <br/>
 
@@ -125,7 +125,7 @@ Running local inference because I like owning my data and my compute:
 </details>
 
 <details>
-<summary>🤖 Xonar Swarm System</summary>
+<summary> Xonar Swarm System</summary>
 
 <br/>
 
