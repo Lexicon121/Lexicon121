@@ -25,7 +25,7 @@ I lead **[Ex Machina Parlor (EMP)](https://exmachinaparlor.com/)** — a securit
 ### current projects
 
 <details>
-<summary><b>🤖 Tengu Marauder Vanguard / Stryker (TMV/TMS)</b> — autonomous RF attack platform</summary>
+<summary><b> Tengu Marauder Vanguard / Stryker (TMV/TMS)</b> — autonomous RF attack platform</summary>
 
 <br/>
 
@@ -47,7 +47,7 @@ The evolution of the original Tengu Marauder. A multi-robot platform built for m
 </details>
 
 <details>
-<summary><b>🏙️ EMP Cyber Range</b></summary>
+<summary><b> EMP Cyber Range</b></summary>
 
 <br/>
 
@@ -94,7 +94,7 @@ Running local inference because I like owning my data and my compute:
 ### older stuff that started it all
 
 <details>
-<summary>📡 Strix Interceptor — DEF CON 31 (2023) Demo Labs</summary>
+<summary> Strix Interceptor — DEF CON 31 (2023) Demo Labs</summary>
 
 <br/>
 
